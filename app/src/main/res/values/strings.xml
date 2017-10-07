@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="action_settings">Cart</string>
+    <string name="action_settings1">History</string>
+</resources>
